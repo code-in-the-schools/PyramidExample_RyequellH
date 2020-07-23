@@ -17,5 +17,5 @@ for i in range(1, num + 1):
   text = ''
   for j in range(i):
     text += char
-    print(text)
+    print(text) 
   
